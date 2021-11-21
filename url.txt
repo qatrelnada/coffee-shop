@@ -1,0 +1,1 @@
+https://qatrelnada.us.auth0.com/authorize?audience=Coffee Shop&response_type=token&client_id=LGCpVKlBjps5K6YYjH6W0E7R6RcX2qtW&redirect_uri=http://localhost:8100/tabs/user-page
